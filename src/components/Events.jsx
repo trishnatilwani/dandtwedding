@@ -2,7 +2,7 @@ function Events() {
   const events = [
     {
       icon: '??',
-      title: 'Welcome Lunch',
+      title: 'Welcome Lunch + mehendi',
       date: 'April 20, 2026',
       time: '12:00 PM onwards',
       venue: 'Deventures Shimla Hills',
@@ -22,7 +22,7 @@ function Events() {
       date: 'April 21, 2026',
       time: '9:00 AM onwards',
       venue: 'Deventures Shimla Hills',
-      description: 'The moment we\'ve been waiting for — witness our union amidst the beautiful Shimla hills.',
+      description: 'The moment we\'ve been waiting for â€” witness our union amidst the beautiful Shimla hills.',
       },
       {
           icon: '??',
@@ -30,7 +30,7 @@ function Events() {
           date: 'April 21, 2026',
           time: '5:00 PM onwards',
           venue: 'Deventures Shimla Hills',
-          description: 'The moment we\'ve been waiting for — witness our union amidst the beautiful Shimla hills.',
+          description: 'The moment we\'ve been waiting for â€” witness our union amidst the beautiful Shimla hills.',
       },
   ];
 
